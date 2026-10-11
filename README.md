@@ -18,12 +18,6 @@
   Este proyecto es un desarrollo independiente con fines de entretenimiento y automatización. No está afiliado, asociado, autorizado ni respaldado oficialmente por WhatsApp Inc. o cualquiera de sus filiales. Utilice el bot de manera responsable para evitar suspensiones de cuenta.
 </details>
 
-<details>
-  <summary><b>🪐 Probar el Bot Oficial</b></summary>
-  <br>
-  Si quieres ver el bot en funcionamiento antes de instalarlo en tu propio servidor, puedes unirte a cualquiera de nuestros enlaces oficiales en la barra de accesos directos de arriba. ¡Por favor, evita el spam!
-</details>
-
 ---
 
 ## 🍃 Descripción del Proyecto
@@ -231,7 +225,7 @@ Las principales tecnologías implementadas en el desarrollo de este ecosistema m
 
 ---
 
-## 🤝 Contacto y Soporte Técnico
+##  Contacto y Soporte Técnico
 
 Si requieres asistencia avanzada, reportar fallas en los módulos o proponer nuevas integraciones para futuras actualizaciones del bot:
 
@@ -252,7 +246,7 @@ Si requieres asistencia avanzada, reportar fallas en los módulos o proponer nue
 ---
 
 <p align="center">
-  <i>Si este software te resulta de utilidad y te agrada, apoya nuestro trabajo dándole una 🌟 estrella a este repositorio. ¡Muchas gracias!</i>
+  <i>Si este software te resulta de utilidad y te agrada, apoya mi trabajo dándole una 🌟 estrella a este repositorio. ¡Muchas gracias!</i>
 </p>
 
   <sub>© 2026 INFINITY WA - BOT</sub>
